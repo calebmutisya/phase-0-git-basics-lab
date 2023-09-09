@@ -8,6 +8,7 @@
 - Stage and commit new content
 - Create a remote repository on GitHub
 - Connect the newly created local repository with the remote on GitHub
+-gdhdgdhd
 
 ## Introduction
 
